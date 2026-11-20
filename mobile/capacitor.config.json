@@ -1,0 +1,6 @@
+{
+  "appId": "com.karthik.map",
+  "appName": "Karthik Map",
+  "webDir": "www",
+  "server": { "url": "https://REPLACE-WITH-YOUR-DEPLOYED-URL", "cleartext": false }
+}
